@@ -9,4 +9,6 @@ Notebooks present various types of neural networks and different learning algori
 - Persistent Contrastive Divergence algorithm,
 - Deep Belief Networks,
 - backpropagation algorithm,
-- regularization using L1 and L2 norms
+- regularization using L1, L2 norms and dropout,
+- ReLu activation function,
+- autoencoders 
